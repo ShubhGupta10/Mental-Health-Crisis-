@@ -1,0 +1,11 @@
+streamlit>=1.40
+scikit-learn
+pandas
+numpy
+networkx
+plotly
+joblib
+kagglehub
+# Optional, only for the DistilBERT backend (use a GPU / Colab):
+# torch
+# transformers
